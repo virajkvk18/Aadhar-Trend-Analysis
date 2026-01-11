@@ -14,6 +14,25 @@ To study year-wise and state-wise Aadhaar trends using data analysis.
 
 ## How to Run
 Run the Python scripts or Jupyter notebooks after installing dependencies.
+Aadhaar-Trend-Analysis
+
+data
+  enrolment
+    (contains enrolment CSV files)
+  biometric
+    (contains biometric CSV files)
+  demographic
+    (contains demographic CSV files)
+
+src
+  preprocess.py
+  analysis.py
+  visualization.py
+
+outputs
+
+main.py
+
 Project File and Folder Structure
 Aadhaar-Trend-Analysis/
 │
