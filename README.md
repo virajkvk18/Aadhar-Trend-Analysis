@@ -13,7 +13,8 @@ To study year-wise and state-wise Aadhaar trends using data analysis.
 - Matplotlib
 
 ## How to Run
-Run the Python scripts or Jupyter notebooks after installing dependencies.
+Run the Python main.py code after installing all the csv files and putting it in a structured files and floders format given below.
+
 Aadhaar-Trend-Analysis
 
 data
