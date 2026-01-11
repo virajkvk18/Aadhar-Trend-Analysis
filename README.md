@@ -14,7 +14,7 @@ To study year-wise and state-wise Aadhaar trends using data analysis.
 
 ## How to Run
 Run the Python scripts or Jupyter notebooks after installing dependencies.
-Project File Structure
+Project File and Folder Structure
 Aadhaar-Trend-Analysis/
 │
 ├── data/
